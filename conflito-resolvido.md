@@ -1,0 +1,1 @@
+Texto criado na branch teste-conflito.
