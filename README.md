@@ -5,25 +5,25 @@ O objetivo deste repositório não é apenas apresentar a sintaxe da linguagem C
 
 Ao longo dos estudos, serão abordados conceitos como:
 
-Estrutura básica de um programa em C;
-Variáveis e tipos de dados;
-Entrada e saída de dados;
-Operadores;
-Estruturas condicionais;
-Estruturas de repetição;
-Funções;
-Arrays e matrizes;
-Strings;
-Ponteiros;
-Structs;
-Alocação dinâmica de memória;
-Recursividade;
-Estruturas de dados;
-Pilhas e filas;
-Árvores;
-Algoritmos de busca;
-Algoritmos de ordenação;
-Exercícios de lógica e resolução de problemas.
+- Estrutura básica de um programa em C;
+- Variáveis e tipos de dados;
+- Entrada e saída de dados;
+- Operadores;
+- Estruturas condicionais;
+- Estruturas de repetição;
+- Funções;
+- Arrays e matrizes;
+- Strings;
+- Ponteiros;
+- Structs;
+- Alocação dinâmica de memória;
+- Recursividade;
+- Estruturas de dados;
+- Pilhas e filas;
+- Árvores;
+- Algoritmos de busca;
+- Algoritmos de ordenação;
+- Exercícios de lógica e resolução de problemas.
 
 Novos conteúdos poderão ser adicionados conforme o desenvolvimento do repositório.
 
